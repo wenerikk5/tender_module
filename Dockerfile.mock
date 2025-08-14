@@ -1,0 +1,15 @@
+FROM python:3.12
+
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONDONTWRITEBYTECODE=1
+
+WORKDIR /app
+
+COPY ./mock_server/requirements.txt .
+COPY ./mock_server/ /app/
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+EXPOSE 8080
+
+CMD ["python", "server.py"]

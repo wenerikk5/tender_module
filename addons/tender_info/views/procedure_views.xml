@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_procedure_tree" model="ir.ui.view">
+        <field name="name">tender.procedure.tree</field>
+        <field name="model">tender.procedure</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="registry_number"/>
+                <field name="title"/>
+                <field name="stage"/>
+                <field name="publish_date"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="view_procedure_form" model="ir.ui.view">
+        <field name="name">tender.procedure.form</field>
+        <field name="model">tender.procedure</field>
+        <field name="arch" type="xml">
+            <form edit="0">
+                <sheet>
+                    <group>
+                        <field name="registry_number"/>
+                        <field name="title"/>
+                        <field name="external_id"/>
+                        <field name="stage"/>
+                        <field name="publish_date"/>
+                    </group>
+                    <notebook>
+                        <page string="Лоты">
+                            <field name="lot_ids">
+                                <tree editable="false" create="true">
+                                    <field name="name"/>
+                                    <field name="status"/>
+                                    <field name="reason"/>
+                                </tree>
+
+                            </field>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+</odoo>

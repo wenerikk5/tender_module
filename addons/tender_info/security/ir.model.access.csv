@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_procedure_procedure,access_procedure_procedure,model_tender_procedure,"base.group_system",1,1,1,1
+access_procedure_lot,access_procedure_lot,model_tender_lot,"base.group_system",1,1,1,1
+access_procedure_participant,access_procedure_participant,model_tender_participant,"base.group_system",1,1,1,1
+access_procedure_import_wizard,access_tender_info_import_wizard,model_tender_import_wizard,"base.group_system",1,1,1,1

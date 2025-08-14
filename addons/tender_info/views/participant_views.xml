@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_participant_tree" model="ir.ui.view">
+        <field name="name">tender.participant.tree</field>
+        <field name="model">tender.participant</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="id"/>
+                <field name="name"/>
+                <field name="address"/>
+                <field name="inn"/>
+                <field name="price"/>
+            </tree>
+        </field>
+    </record>
+</odoo>

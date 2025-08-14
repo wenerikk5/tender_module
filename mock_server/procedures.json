@@ -1,0 +1,403 @@
+{
+  "data": [
+    {
+      "external_id": "1647460",
+      "type": "procedure",
+      "attributes": {
+        "with_guarantee_application": false,
+        "without_ep": true,
+        "registry_number": "920198",
+        "stage": "accepting",
+        "title": "Поставка пневматического оборудования и инструмента для нужд АО «Экология»",
+        "platform_url": "https://gos.etpgpb.ru/front/procedure/view/f80201a4-1a15-4952-aef2-63dac8ac1764",
+        "kind": "fz44",
+        "procedure_type_name": "Электронная закупка товара у единственного поставщика",
+        "truncated_path": null,
+        "app_guarantee_type": null,
+        "total_guarantee_application": "0,00",
+        "company_name": "УПРАВЛЕНИЕ ДЕЛАМИ ГУБЕРНАТОРА И ПРАВИТЕЛЬСТВА КРАСНОЯРСКОГО КРАЯ",
+        "company_url": "/customers/upravlenie-delami-gubernatora-i-pravitelstva-krasnoyarskogo-kraya/",
+        "amount": "29965.0",
+        "currency_name": "RUB",
+        "date_published": "2025-08-13T11:13:47.000+03:00",
+        "lot_regions": [
+          "Красноярский край"
+        ],
+        "date_last_update": null,
+        "lots_first_date_begin_auction": null,
+        "lots_count": 1,
+        "template": "common",
+        "mineral_type": null,
+        "section_category_name": "Закупки.Гос44",
+        "rebranding_truncated_path": null,
+        "custom_procedure_type_name": null,
+        "end_registration": null,
+        "guarantee_application_currency": "RUB",
+        "time_before_end_registration": null
+      },
+      "relationships": {
+        "unique_lot_companies": {
+          "data": []
+        }
+      }
+    },
+    {
+      "external_id": "1647325",
+      "type": "procedure",
+      "attributes": {
+        "with_guarantee_application": false,
+        "without_ep": true,
+        "registry_number": "817083",
+        "stage": "completed",
+        "title": "МИ №1064/МИ (25-ГЭС-0229) - Выполнение работ по текущему ремонту внутри и внеплощадных сетей водопровода для нужд филиала АО «Газэнергосервис» - завод «Ротор» для нужд АО \"Газэнергосервис\"(25-ГЭС-0229)",
+        "platform_url": "https://etp.gpb.ru/#nsi/priceorder/directCustomer/orderexternal_id/817083",
+        "kind": "price_request",
+        "procedure_type_name": "Ценовой запрос",
+        "truncated_path": "/procedure/tender/price_request/817083-postavka-mebeli-dlya-masterskoy/",
+        "app_guarantee_type": 0,
+        "total_guarantee_application": "0,00",
+        "company_name": "ГПОАУ РИТ",
+        "company_url": "/customers/gosudarstvennoe-professionalnoe-obrazovatelnoe-avtonomnoe-uchrezhdenie-amurskoy-oblasti-raychihinskiy-industrialnyy-tehnikum/",
+        "amount": "477700.0",
+        "currency_name": "RUB",
+        "date_published": "2025-08-13T10:01:00.000+03:00",
+        "lot_regions": [
+          "Амурская область"
+        ],
+        "date_last_update": null,
+        "lots_first_date_begin_auction": null,
+        "lots_count": 1,
+        "template": "common",
+        "mineral_type": null,
+        "section_category_name": "Торговый портал",
+        "rebranding_truncated_path": "/procedures/price_request/817083-postavka-mebeli-dlya-masterskoy/",
+        "custom_procedure_type_name": null,
+        "end_registration": "2025-08-13T11:30:00.000+03:00",
+        "guarantee_application_currency": "RUB",
+        "time_before_end_registration": -119
+      },
+      "relationships": {
+        "unique_lot_companies": {
+          "data": [
+            {
+              "external_id": "12345",
+              "type": "company"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "external_id": "1647134",
+      "type": "procedure",
+      "attributes": {
+        "with_guarantee_application": false,
+        "without_ep": true,
+        "registry_number": "816994",
+        "stage": "accepting",
+        "title": " Поставка учебного стенда",
+        "platform_url": "https://etp.gpb.ru/#nsi/priceorder/directCustomer/orderexternal_id/816994",
+        "kind": "price_request",
+        "procedure_type_name": "Ценовой запрос",
+        "truncated_path": "/procedure/tender/price_request/816994-postavka-uchebnogo-stenda/",
+        "app_guarantee_type": 0,
+        "total_guarantee_application": "0,00",
+        "company_name": "ГПОАУ РИТ",
+        "company_url": "/customers/gosudarstvennoe-professionalnoe-obrazovatelnoe-avtonomnoe-uchrezhdenie-amurskoy-oblasti-raychihinskiy-industrialnyy-tehnikum/",
+        "amount": "709300.0",
+        "currency_name": "RUB",
+        "date_published": "2025-08-13T08:35:00.000+03:00",
+        "lot_regions": [
+          "Амурская область"
+        ],
+        "date_last_update": null,
+        "lots_first_date_begin_auction": null,
+        "lots_count": 1,
+        "template": "common",
+        "mineral_type": null,
+        "section_category_name": "Торговый портал",
+        "rebranding_truncated_path": "/procedures/price_request/816994-postavka-uchebnogo-stenda/",
+        "custom_procedure_type_name": null,
+        "end_registration": "2025-08-13T10:30:00.000+03:00",
+        "guarantee_application_currency": "RUB",
+        "time_before_end_registration": -127
+      },
+      "relationships": {
+        "unique_lot_companies": {
+          "data": [
+            {
+              "external_id": "12345",
+              "type": "company"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "external_id": "1645981",
+      "type": "procedure",
+      "attributes": {
+        "with_guarantee_application": false,
+        "without_ep": true,
+        "registry_number": "816235",
+        "stage": "accepting",
+        "title": "Поставка бытовой техники в рамках реализации социального проекта «Создание семейной мастерской» за счет средства гранта на безвозмездной и безвозвратной основе",
+        "platform_url": "https://etp.gpb.ru/#nsi/priceorder/directCustomer/orderexternal_id/816235",
+        "kind": "price_request",
+        "procedure_type_name": "Ценовой запрос",
+        "truncated_path": "/procedure/tender/price_request/816235-postavka-bytovoy-tehniki-v-ramkah-realizatsii-sotsialnogo-proekta-sozdanie-semeynoy-masterskoy-za-schet-sredstva-/",
+        "app_guarantee_type": 0,
+        "total_guarantee_application": "0,00",
+        "company_name": "ГАУ АО ПОЯРКОВСКИЙ КЦСОН",
+        "company_url": "/customers/gosudarstvennoe-avtonomnoe-uchrezhdenie-amurskoy-oblasti-poyarkovskiy-kompleksnyy-tsentr-sotsialnogo-obsluzhivaniya-naseleniya/",
+        "amount": "18000.0",
+        "currency_name": "RUB",
+        "date_published": "2025-08-13T05:01:00.000+03:00",
+        "lot_regions": [
+          "Амурская область"
+        ],
+        "date_last_update": null,
+        "lots_first_date_begin_auction": null,
+        "lots_count": 1,
+        "template": "common",
+        "mineral_type": null,
+        "section_category_name": "Торговый портал",
+        "rebranding_truncated_path": "/procedures/price_request/816235-postavka-bytovoy-tehniki-v-ramkah-realizatsii-sotsialnogo-proekta-sozdanie-semeynoy-masterskoy-za-schet-sredstva-/",
+        "custom_procedure_type_name": null,
+        "end_registration": "2025-08-13T07:00:00.000+03:00",
+        "guarantee_application_currency": "RUB",
+        "time_before_end_registration": -262
+      },
+      "relationships": {
+        "unique_lot_companies": {
+          "data": [
+            {
+              "external_id": "18995",
+              "type": "company"
+            }
+          ]
+        }
+      }
+    },
+    {
+        "external_id": "1648453",
+        "type": "procedure",
+        "attributes": {
+            "with_guarantee_application": false,
+            "without_ep": true,
+            "registry_number": "816582",
+            "stage": "accepting",
+            "title": "Поставка подметально-уборочных машин и комплектующих",
+            "platform_url": "https://etp.gpb.ru/#nsi/priceorder/directCustomer/orderexternal_id/816582",
+            "kind": "price_request",
+            "procedure_type_name": "Ценовой запрос",
+            "truncated_path": "/procedure/tender/price_request/816582-postavka-podmetalno-uborochnyh-mashin-i-komplektuyuschih/",
+            "app_guarantee_type": 0,
+            "total_guarantee_application": "0,00",
+            "company_name": "АО ЗЕНИТ-АРЕНА",
+            "company_url": "/customers/ao-zenit-arena/",
+            "amount": "440600.0",
+            "currency_name": "RUB",
+            "date_published": "2025-08-14T09:28:00.000+03:00",
+            "lot_regions": [
+                "Санкт-Петербург"
+            ],
+            "date_last_update": null,
+            "lots_first_date_begin_auction": null,
+            "lots_count": 1,
+            "template": "common",
+            "mineral_type": null,
+            "section_category_name": "Торговый портал",
+            "rebranding_truncated_path": "/procedures/price_request/816582-postavka-podmetalno-uborochnyh-mashin-i-komplektuyuschih/",
+            "custom_procedure_type_name": null,
+            "end_registration": "2025-08-19T10:00:00.000+03:00",
+            "guarantee_application_currency": "RUB",
+            "time_before_end_registration": 433912
+        },
+        "relationships": {
+            "unique_lot_companies": {
+                "data": [
+                    {
+                        "external_id": "12452",
+                        "type": "company"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "external_id": "1647956",
+        "type": "procedure",
+        "attributes": {
+            "with_guarantee_application": false,
+            "without_ep": true,
+            "registry_number": "0815500000525011132",
+            "stage": "completed",
+            "title": "Поставка и монтаж спортивно-технологического оборудования для создания площадки ГТО на территории МБОУ \"Гимназия №8\" г. Шумерля по адресу: Шумерлинский муниципальный округ, г. Шумерля, ул. Сурская, д. 7 0815500000525011132",
+            "platform_url": "https://gos.etpgpb.ru/front/procedure/view/292836b3-6907-430d-a980-7fc7361dc662",
+            "kind": "fz44",
+            "procedure_type_name": "Электронный аукцион",
+            "truncated_path": null,
+            "app_guarantee_type": null,
+            "total_guarantee_application": "0,00",
+            "company_name": "КУ РЕГИОНАЛЬНЫЙ ЦЕНТР ЗАКУПОК ЧУВАШСКОЙ РЕСПУБЛИКИ",
+            "company_url": "/customers/kazennoe-uchrezhdenie-chuvashskoy-respubliki-regionalnyy-tsentr-zakupok-chuvashskoy-respubliki/",
+            "amount": "2104038.0",
+            "currency_name": "RUB",
+            "date_published": "2025-08-13T15:40:54.000+03:00",
+            "lot_regions": [
+                "Чувашская Республика"
+            ],
+            "date_last_update": null,
+            "lots_first_date_begin_auction": "2025-08-22T11:00:00.000+03:00",
+            "lots_count": 1,
+            "template": "common",
+            "mineral_type": null,
+            "section_category_name": "Закупки.Гос44",
+            "rebranding_truncated_path": null,
+            "custom_procedure_type_name": null,
+            "end_registration": "2025-08-22T09:00:00.000+03:00",
+            "guarantee_application_currency": "RUB",
+            "time_before_end_registration": 753402
+        },
+        "relationships": {
+            "unique_lot_companies": {
+                "data": []
+            }
+        }
+    },
+    {
+        "external_id": "1647954",
+        "type": "procedure",
+        "attributes": {
+            "with_guarantee_application": false,
+            "without_ep": false,
+            "registry_number": "32515124440",
+            "stage": "completed",
+            "title": "МИ №20255/МИ (225NP00816) - Анализ и корректировка проекта производственной программы на капитальный ремонт энергоблока №7 для нужд филиала ПАО \"ОГК-2\" - Новочеркасская ГРЭС",
+            "platform_url": "https://etp.gpb.ru/#com/procedure/view/procedure/1153378",
+            "kind": "fz223",
+            "procedure_type_name": "Запрос (ценовых) котировок",
+            "truncated_path": "/procedure/tender/etp/1153378-mi-20255-mi-225np00816-analiz-i-korrektirovka-proekta-proizvodstvennoy-programmy-na-kapitalnyy-remont-energobloka-7-dlya-nuzhd-filiala-pao-ogk-2-novocherkasskaya-gres/",
+            "app_guarantee_type": null,
+            "total_guarantee_application": "0,00",
+            "company_name": "ГЭХ Закупки",
+            "company_url": "/customers/ooo-predpriyatie-proizvodstvenno-tehnologicheskoy-komplektatsii/",
+            "amount": "12262608.0",
+            "currency_name": "RUB",
+            "date_published": "2025-08-13T15:39:00.000+03:00",
+            "lot_regions": [
+                "Санкт-Петербург"
+            ],
+            "date_last_update": null,
+            "lots_first_date_begin_auction": null,
+            "lots_count": 1,
+            "template": "common",
+            "mineral_type": null,
+            "section_category_name": "Закупки.Бизнес",
+            "rebranding_truncated_path": "/procedures/etp/1153378-mi-20255-mi-225np00816-analiz-i-korrektirovka-proekta-proizvodstvennoy-programmy-na-kapitalnyy-remont-energobloka-7-dlya-nuzhd-filiala-pao-ogk-2-novocherkasskaya-gres/",
+            "custom_procedure_type_name": "Маркетинговые исследования",
+            "end_registration": "2025-08-21T10:00:00.000+03:00",
+            "guarantee_application_currency": "RUB",
+            "time_before_end_registration": 670780
+        },
+        "relationships": {
+            "unique_lot_companies": {
+                "data": [
+                    {
+                        "external_id": "8217",
+                        "type": "company"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "external_id": "1647938",
+        "type": "procedure",
+        "attributes": {
+            "with_guarantee_application": false,
+            "without_ep": false,
+            "registry_number": "32515124371",
+            "stage": "completed",
+            "title": "МИ №1085/МИ (25-ГЭС-0290) - Ремонт кровли главного производственного корпуса и кровли насосной станции филиала АО «Газэнергосервис» - завод «Турбодеталь» им. И.И. Соколовского для нужд АО \"Газэнергосервис\"(25-ГЭС-0290)",
+            "platform_url": "https://etp.gpb.ru/#com/procedure/view/procedure/1153373",
+            "kind": "fz223",
+            "procedure_type_name": "Запрос (ценовых) котировок",
+            "truncated_path": "/procedure/tender/etp/1153373-mi-1085-mi-25-ges-0290-remont-krovli-glavnogo-proizvodstvennogo-korpusa-i-krovli-nasosnoy-stantsii-filiala-ao-gazenergoservis-zavod-turbodetal-im-ii-sokolovskogo-dlya-nuzhd-ao-gazenergoservis-25-ges-0290/",
+            "app_guarantee_type": null,
+            "total_guarantee_application": "0,00",
+            "company_name": "ГЭХ Закупки",
+            "company_url": "/customers/ooo-predpriyatie-proizvodstvenno-tehnologicheskoy-komplektatsii/",
+            "amount": "17918299.88",
+            "currency_name": "RUB",
+            "date_published": "2025-08-13T15:31:00.000+03:00",
+            "lot_regions": [
+                "Москва"
+            ],
+            "date_last_update": null,
+            "lots_first_date_begin_auction": null,
+            "lots_count": 1,
+            "template": "common",
+            "mineral_type": null,
+            "section_category_name": "Закупки.Бизнес",
+            "rebranding_truncated_path": "/procedures/etp/1153373-mi-1085-mi-25-ges-0290-remont-krovli-glavnogo-proizvodstvennogo-korpusa-i-krovli-nasosnoy-stantsii-filiala-ao-gazenergoservis-zavod-turbodetal-im-ii-sokolovskogo-dlya-nuzhd-ao-gazenergoservis-25-ges-0290/",
+            "custom_procedure_type_name": "Маркетинговые исследования",
+            "end_registration": "2025-08-21T10:00:00.000+03:00",
+            "guarantee_application_currency": "RUB",
+            "time_before_end_registration": 671285
+        },
+        "relationships": {
+            "unique_lot_companies": {
+                "data": [
+                    {
+                        "external_id": "9672",
+                        "type": "company"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "external_id": "1647932",
+        "type": "procedure",
+        "attributes": {
+            "with_guarantee_application": false,
+            "without_ep": true,
+            "registry_number": "0142200001325019122",
+            "stage": "accepting",
+            "title": "Выполнение мероприятий, направленных на приведение автомобильных дорог в нормативное состояние и снижения количества ДТП. Установка светильников по ул. Строителей, ул. Советской. 0142200001325019122",
+            "platform_url": "https://gos.etpgpb.ru/front/procedure/view/071eb372-eaee-4360-945b-93ee533fdd33",
+            "kind": "fz44",
+            "procedure_type_name": "Запрос котировок в электронной форме (оптима)",
+            "truncated_path": null,
+            "app_guarantee_type": null,
+            "total_guarantee_application": "0,00",
+            "company_name": "ГЛАВНОЕ УПРАВЛЕНИЕ ОРГАНИЗАЦИИ ТОРГОВ",
+            "company_url": "/customers/glavnoe-upravlenie-organizatsii-torgov-samarskoy-oblasti/",
+            "amount": "1450312.62",
+            "currency_name": "RUB",
+            "date_published": "2025-08-13T15:25:22.000+03:00",
+            "lot_regions": [
+                "Самарская область"
+            ],
+            "date_last_update": null,
+            "lots_first_date_begin_auction": null,
+            "lots_count": 1,
+            "template": "common",
+            "mineral_type": null,
+            "section_category_name": "Закупки.Гос44",
+            "rebranding_truncated_path": null,
+            "custom_procedure_type_name": null,
+            "end_registration": "2025-08-20T09:00:00.000+03:00",
+            "guarantee_application_currency": "RUB",
+            "time_before_end_registration": 581544
+        },
+        "relationships": {
+            "unique_lot_companies": {
+                "data": []
+            }
+        }
+    }
+  ]
+}
