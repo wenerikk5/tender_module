@@ -99,8 +99,11 @@ class ImportWizard(models.TransientModel):
 
                 if lot_db.status == "completed":
                     # Add logic to select additional data required to load
-                    participants = lot["participants"][:2]
-                    success_participants.extend(participants)
+                    participants = lot["participants"]
+                    for participant in participants:
+                        # Select only a winner and second place
+                        if participant["place"] in [1, 2]:
+                            success_participants.append(participant)
 
                 lot_external_id_record_id[lot_db.external_id] = lot_db.id
 
