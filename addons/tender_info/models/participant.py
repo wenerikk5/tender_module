@@ -17,4 +17,4 @@ class Participant(models.TransientModel):
     address = fields.Char('Адрес')
     price = fields.Float('Цена, RUB')
     place = fields.Integer('Место')
-    lot_id = fields.Many2one('tender.lot', string='Лот', ondelete='cascade')
+    lot_id = fields.Many2one('tender.lot', string='Лот')

@@ -22,7 +22,7 @@ class Lot(models.TransientModel):
         ],
         string='Статус',
         required=True,
-    )  # Неизвестен весь перечень возможных статусов
+    )
     reason = fields.Text('Причина')
     participant_ids = fields.One2many(
         'tender.participant',
