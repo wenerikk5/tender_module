@@ -1,1 +1,1 @@
-from .etp_client.api import ETPApi
+from .etp_client.api import ETPApiClient

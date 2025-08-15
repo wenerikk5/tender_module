@@ -29,7 +29,7 @@ class BaseAPI:
         with requests.Session() as session:
             number_of_retries = 3
             retry_strategy = Retry(total=number_of_retries,
-                                   status_forcelist=[429, 500, 502, 503, 504,],
+                                   status_forcelist=[429, 500, 502, 503, 504],
                                    # method_whitelist=['GET', 'POST'],
                                    backoff_factor=2)   # 1s, 2s, 4s
             adapter = HTTPAdapter(max_retries=retry_strategy)

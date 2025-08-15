@@ -1,6 +1,6 @@
 # coding: utf-8
 import logging
-from datetime import datetime
+from datetime import date
 
 from .base import BaseAPI
 from . import exceptions
@@ -8,13 +8,13 @@ from . import exceptions
 _logger = logging.getLogger(__name__)
 
 
-class ETPApi(BaseAPI):
+class ETPApiClient(BaseAPI):
     base_url = 'http://mock_server:8080'
 
-    def get_procedures(self, published_from: datetime, inn: str) -> dict:
+    def get_procedures(self, published_from: date, inn: str) -> dict:
         """
         Get a list of procedures.
-        :param published_from: Publish_date of the procedure (no earlier)
+        :param published_from: Publish_date of the procedure (not earlier)
         :param inn: inn of the customer
         """
         try:
